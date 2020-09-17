@@ -1,0 +1,20 @@
+{
+  "name": "empty-project-template",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^34.0.3",
+    "expo-cli": "^3.0.8",
+    "react": "16.3.1",
+    "react-native": "^0.60.4",
+    "react-native-qrcode": "^0.2.7",
+    "react-navigation": "^2.17.0",
+    "redux": "^4.0.0"
+  }
+}
