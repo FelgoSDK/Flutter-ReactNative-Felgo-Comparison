@@ -8,7 +8,7 @@ In the article we compared Felgo and two of the most popular cross-platform fram
 
 Overall with Felgo, we measured less lines of code with more platform supported, but don't trust our words, check our code.
 
-![Chart](https://github.com/FelgoSDK/Flutter-ReactNative-Felgo-Comparison/blob/master/images/FrameworkComparisonBarChart.png)
+<img src="https://github.com/FelgoSDK/Flutter-ReactNative-Felgo-Comparison/blob/master/images/FrameworkComparisonBarChart.png" width="50%">
 
 ## How to run the samples
 Each sample is separated in folders for Felgo, Flutter and React Native implementations.
