@@ -2,11 +2,11 @@
 
 # Flutter, React Native & Felgo: Cross-platform Framework Comparison
 
-If you're trying to choose the best cross-platform development framework you've come to the right place. Here you are going to find a comparison between Felgo and the most popular frameworks available: Flutter and React Native. You'll find many sample applications implemented in the three languages, from the mandatory "Hello World" to more real-world scenarios. You'll be able to compare the code-styles, languages and look-and-feel of each of them.
+If you're trying to choose the best cross-platform development framework you've come to the right place. Here you are going to find a comparison between Felgo and the most popular frameworks available: Flutter and React Native. You'll find sample applications implemented in the three languages so that you can see them in real-world scenarios. You'll be able to compare the code-styles, languages and look-and-feel of each of them.
 
 We'll also take a deep dive into animations and how they are performed by different renderers. The approach that Qt/Felgo employs is a radical departure from the past and here you can see why.
 
-If you want the key takeaway, with Felgo we measured fewer lines of code with more platform supported, but don't trust our words, check our code.
+The comparison shows that Felgo requires fewer lines of code, supports more platforms, and offers powerful animations and a great rendering performance. But don't trust our words, check our code.
 
 <img src="https://github.com/FelgoSDK/Flutter-ReactNative-Felgo-Comparison/blob/master/images/FrameworkComparisonBarChart.png" width="50%">
 
